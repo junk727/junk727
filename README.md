@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @JunkBoi99
+# 👋 Hi, I’m @junk727
 
 [![Solved.ac
 Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junk06)](https://solved.ac/junk06)
